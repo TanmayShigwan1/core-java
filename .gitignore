@@ -1,0 +1,53 @@
+# Compiled class files
+*.class
+
+# Package files
+*.jar
+*.war
+*.ear
+
+# Eclipse/IntelliJ/NetBeans files
+/.classpath
+/.project
+/.settings/
+/.idea/
+*.iml
+
+# VS Code
+.vscode/
+
+# Build output
+/bin/
+/out/
+/target/
+/build/
+
+# Mac
+.DS_Store
+
+# Logs
+*.log
+
+# Temporary files
+*.tmp
+*.bak
+
+# Maven
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+
+# Gradle
+.gradle
+/build/
+
+# Other
+*.class
+*.jar
+*.war
+
+# Ignore compiled distributions
+dist/
+
+# Node (if any)
+node_modules/
